@@ -1,4 +1,4 @@
-Game of 21 played in the console
+Game of 21 played in the Terminal
 
 How to play:
 
